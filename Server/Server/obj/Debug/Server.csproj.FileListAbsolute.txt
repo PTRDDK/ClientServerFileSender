@@ -1,0 +1,6 @@
+c:\users\piotrek\documents\visual studio 2017\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\piotrek\documents\visual studio 2017\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\piotrek\documents\visual studio 2017\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\piotrek\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\piotrek\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\Piotrek\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
